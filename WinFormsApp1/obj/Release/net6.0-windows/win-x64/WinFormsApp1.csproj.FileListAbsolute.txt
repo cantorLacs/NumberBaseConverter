@@ -1,0 +1,17 @@
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.exe
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.deps.json
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.runtimeconfig.json
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.dll
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\bin\Release\net6.0-windows\win-x64\WinFormsApp1.pdb
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.Form1.resources
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.Properties.Resources.resources
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.dll
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\refint\WinFormsApp1.dll
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.pdb
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\WinFormsApp1\obj\Release\net6.0-windows\win-x64\ref\WinFormsApp1.dll

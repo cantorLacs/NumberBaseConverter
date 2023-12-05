@@ -1,0 +1,5 @@
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\New folder\WinFormsApp1.exe
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\New folder\WinFormsApp1.dll
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\New folder\WinFormsApp1.deps.json
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\New folder\WinFormsApp1.runtimeconfig.json
+C:\Users\Lâcs\Documents\LaSalle\LaSalle\1\computer architecture\NumberBaseConverter\New folder\WinFormsApp1.pdb
